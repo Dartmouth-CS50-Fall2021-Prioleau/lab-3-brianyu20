@@ -1,0 +1,6 @@
+successfully created set1
+Nothing is added yet, should print null
+(null)
+Should print 256, 101, 2 inside the set
+{[256],[101],[2],}
+Printing the number of items in thes set, it should be 3 and it is:3
