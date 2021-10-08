@@ -10,3 +10,5 @@ Notes&Assumptions
 2. Each module shows no memory leak when run with myvalgrind. Therefore, no special testing of module_delete was tested because of the delete function wasn't working correctly, there would have been memory leaks. 
 
 3. running make all makes all the subdirectories. 
+
+4. Please don't mind the testing.names files; they are part of my trial and errors
