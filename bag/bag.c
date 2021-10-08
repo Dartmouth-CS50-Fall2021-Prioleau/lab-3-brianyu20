@@ -57,7 +57,7 @@ bag_insert(bag_t* bag, void* item)
 {
   if (bag != NULL && item != NULL) {
     // allocate a new node to be added to the list
-    bagnode_t* new = bagnode_new(item);
+    bagnode_t* new = bagnode_new(item); 
     if (new != NULL) {
       // add it to the head of the list
       new->next = bag->head;
