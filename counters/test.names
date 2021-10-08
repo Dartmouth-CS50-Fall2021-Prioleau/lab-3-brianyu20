@@ -1,0 +1,9 @@
+successfully created counters1
+Should print a counters with one 1 and one 2
+{[1:1],[2:1],}
+Should print two 1's, one 2, and one 3
+{[1:2],[2:1],[3:1],}
+Should print five 1's, two 5's, one 2, and one 3
+{[1:5],[2:1],[3:1],[5:2],}
+Should print 2
+2
